@@ -1,21 +1,31 @@
-# hogwarts-or-bust
-🧙‍♂️ Sorting Hat Quiz
+# Hogwarts or Bust
+🧙‍♂️ **Sorting Hat Quiz**
+
 A fun Python quiz that sorts you into your Hogwarts house. Answer 3 quick questions and let the magic happen! 🏰✨
 
-✨ Features
+## ✨ **Features**
+
 ✅ 3 personality-based questions
+
 ✅ Points system to determine your house
+
 ✅ Clear terminal output with house points and final result
+
 ✅ Beginner-friendly Python code
 
-🚀 Getting Started
-1️⃣ Clone this repo
+## 🚀 **Getting Started**
 
-2️⃣ Run the quiz
+1️⃣ **Clone this repo**
+
+https://github.com/avocadoyoon/hogwarts-or-bust.git 
+
+2️⃣ **Run the quiz**
+
 Make sure you have Python 3.x installed.
-python Sorting\ Hat.py
 
-💻 Example Run
+
+💻 **Example Run**
+```bash
 ---------------
 The Sorting Hat
 ---------------
@@ -44,14 +54,19 @@ Ravenclaw: 3
 Hufflepuff: 0  
 Slytherin: 0  
 Heyo, you are a Gryffindor!
+```
 
-💡 Ideas for Improvement
+## 💡 **Ideas for Improvement**
+
 ✨ Add more questions
-✨ Build a GUI version with Tkinter or PyQt
-✨ Turn it into a web app with Flask or Django
+
+✨ Build a **GUI** version with **Tkinter** or **PyQt**
+
+✨ Turn it into a web app with **Flask** or **Django**
+
 ✨ Display a personality description for each house
 
+---
 
-🌟 Connect
 Made with ❤️ by avocadoyoon
 
